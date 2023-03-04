@@ -21,6 +21,7 @@ namespace basicToMordern
             //xulyGiaoDienKhoilop.XuatDuLieuKhoi();
             XuLyGiaoDien xl = new XuLyGiaoDien(data);
             xl.GiaoDien();
+            Console.WriteLine("Hello work!");
             Console.ReadLine();
         }
         
